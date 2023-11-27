@@ -1,2 +1,2 @@
 # RTA-SatOne
-100% publicly developed cubesat program from Rei Technologies Aerospace
+100% publicly developed cubesat/femtosat program from Rei Technologies Aerospace
