@@ -1,6 +1,14 @@
 # RTA-SatOne
 100% publicly developed cubesat/femtosat program from Rei Technologies Aerospace
 
+## Current Version
+### v0.1
+Objectives:
+1. Finalize dimensions of basic design
+2. Test structure and printability
+3. Test different filaments/materials
+4. Test ability for CNC and casting
+
 ## Navigate this Repo
 ### To find technical drawings:
 1. Visit /Technical Drawings/
